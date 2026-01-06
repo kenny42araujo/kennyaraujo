@@ -1,6 +1,6 @@
 body {
     font-family: "Segoe UI", 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    background-image: url('../_midias/_imagens/bg1.png');
+    background-image: url('_midias/_imagens/bg1.png');
     background-size: 50%;
     background-repeat: repeat-x repeat-y;
     background-position: top left right bottom;
@@ -24,7 +24,7 @@ body {
 
 .cabecalho {
     text-align: center;
-    background-image: url('../_midias/_imagens/bg2.png');
+    background-image: url('_midias/_imagens/bg2.png');
     background-size: 100%;
     color: #ffffff;
     text-shadow: 3px 3px #202020a9;
